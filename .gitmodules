@@ -1,3 +1,6 @@
 [submodule "ASIC"]
 	path = ASIC
 	url = https://github.com/hplp/ASIC
+[submodule "FPGA"]
+	path = FPGA
+	url = https://github.com/hplp/FPGA
