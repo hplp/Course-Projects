@@ -1,0 +1,3 @@
+[submodule "ASIC"]
+	path = ASIC
+	url = https://github.com/hplp/ASIC
